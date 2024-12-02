@@ -1,0 +1,31 @@
+[
+  {
+    "navigationPath": "Cross-functional project plan, Project",
+    "taskName": "Draft project brief",
+    "columnName": "To do",
+    "tags": [
+      "Non-Priority",
+      "On track"
+    ]
+  },
+  {
+    "navigationPath": "Cross-functional project plan, Project",
+    "taskName": "Schedule kickoff meeting",
+    "columnName": "To do",
+    "tags": [
+      "Medium",
+      "At risk"
+    ]
+  },
+  {
+    "navigationPath": "Work Requests",
+    "taskName": "[Example] Laptop setup for new hire",
+    "columnName": "New Requests",
+    "tags": [
+      "Medium priority",
+      "Low effort",
+      "New hardware",
+      "Not Started"
+    ]
+  }
+]
